@@ -1,4 +1,4 @@
-.button {
+.myButton {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -10,4 +10,11 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 12px;
+}
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+p {
+    font-size: 60;
 }
